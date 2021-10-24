@@ -39,8 +39,11 @@ The below analysis reviews many factors provided in the loan_stats csv and how t
 
 
 - Model 4: Combination (Over and Under) Sampling
+
         The Balanced Accuracy Score is 51%
+        
         The Precision Score for high-risk is 1%
+        
         The Recall Score is 70%
  
  ![image](https://user-images.githubusercontent.com/85718354/138608656-507b42af-e488-44d6-b7c3-d97f2c5db95c.png)
