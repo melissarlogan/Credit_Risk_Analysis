@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-The below analysis reviews many factors provided in the loan_stats csv and how they relate to someone receiving a "low" or "high-risk" credit status
+The below analysis reviews many factors provided in the loan_stats csv and how they relate to someone receiving a "low" or "high-risk" credit status. Models were then created using this data set to determine if the model could predict which credit score an applicant should be assigned.
 
 ## Results: balanced accuracy scores and the precision and recall scores
 - Model 1: Naive Random Oversampling
